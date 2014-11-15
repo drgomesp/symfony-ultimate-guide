@@ -3,10 +3,10 @@
 Encoding.default_external = Encoding::UTF_8
  
 # checkout the readme from the master branch
-`git checkout gh-pages; git checkout master README.md`
+`git checkout gh-pages; git checkout master GUIDE.md`
  
 path = `pwd`.gsub(/\n/, "")
-readme_path = File.join(path, "README.md")
+readme_path = File.join(path, "GUIDE.md")
 index_path = File.join(path, "index.md")
  
 # write the index readme file
@@ -39,4 +39,4 @@ File.open readme_path, "r" do |readme|
 end
  
 # remove the readme
-`git reset HEAD README.md; rm README.md`
+`git reset HEAD GUIDE.md; rm GUIDE.md`
