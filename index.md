@@ -10,5 +10,3 @@ Symfony – The Ultimate Guide
 incredible PHP framework of all times: [Symfony](http://symfony.com). I'll tell you what: you're on the right place, mate! 
 Now, I have a warning for you: be prepared for lots, I mean *lots* of reading — after all, reading is one of the best 
 ways to learn, right?
-
-
