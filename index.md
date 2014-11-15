@@ -4,7 +4,7 @@ layout: main
 Symfony – The Ultimate Guide
 ======================
 
-*Proudly written with love by [Daniel Ribeiro](http://danielribeiro.org).*
+*Proudly written with love by [Daniel Ribeiro](https://github.com/drgomesp).*
 
 **Welcome!** If you are reading this, you're probably a programmer looking to learn or improve your skills on the most 
 incredible PHP framework of all times: [Symfony](http://symfony.com). I'll tell you what: you're on the right place, mate! 
@@ -15,8 +15,11 @@ ways to learn, right?
 
 1. [Introduction](#introduction)
 
-### 1. Introduction {#1.-introduction}
+### Introduction {#introduction}
 
 Not let's start with the basic – if you already work with Symfony, you can easily skip this chapter: Symfony is a both 
 a full-stack framework and a set of standalone and reusable components. That means you can start working on an application
-using the full-stack version – called [Symfony Standard Edition](https://github.com/symfony/symfony-standard/) – or create your own framework layer on top of its components.
+using the full-stack version – called [Symfony Standard Edition](https://github.com/symfony/symfony-standard/) – or create 
+your own framework layer on top of its components. On this guide I will focus on the full-stack version, but you can expect
+to learn a lot of important concepts to be able to write a decoupled application, meaning that the framework will be just
+another tool to help you achieve your goal faster while not blocking you or preventing you to move on if you need to.
