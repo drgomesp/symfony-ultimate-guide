@@ -25,7 +25,7 @@ To create a new application on top of the standard edition, all you need to do i
 you have [Composer](https://getcomposer.org/) [installed globally](https://getcomposer.org/doc/00-intro.md#globally) 
 before you run it:
 
-```
+```bash
 composer create-project symfony/framework-standard-edition path/to/install
 ```
 
